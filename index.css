@@ -1,0 +1,128 @@
+nav{
+    display:flex;    
+    justify-content: space-around;
+    background-color: rgb(36, 98, 225); 
+    height: 80px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    font-size: 37px;
+    color: rgb(251, 253, 255);
+    font-family: Arial;
+    font-style: bold;
+}
+ul{ 
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    gap: 20px;
+    color: rgb(251, 253, 255);
+    font-family: Arial;
+    font-style: bold;
+}
+.niv
+{
+    background-color: rgb(4, 154, 154);
+}
+.mainre
+{
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+}
+.text1
+{
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    color: black;
+}
+.per
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(237, 237, 237);
+    height: 80vh;
+    width: 100vw;
+}
+.rep
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-family: Arial;
+}
+.k1
+{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 254, 254);
+    width: 300px;
+    height: 220px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.z1
+{
+    color: rgb(36, 98, 225);
+}
+.c1
+{
+    background-color: rgb(237, 237, 237);
+    border-radius: 10px;
+}
+.ct1
+{
+    padding: 5px;
+}
+.repo
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.e1
+{
+    display: flex;
+    background-color: rgb(36, 98, 225);
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.k2
+{
+    background-color: rgb(255, 254, 254);
+    width: 1020px;
+    height: 220px;
+    padding: 15px;
+    border-radius: 20px;
+    font-family: Arial;
+    padding: 15px;
+}
+.c2
+{
+    display: flex;
+    background-color: rgba(36, 99, 225, 0.349);
+    justify-content: center;
+    gap: 30px;
+    height: 100px;
+    align-items: center;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
+.ne
+{
+    background-color: rgb(29, 38, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.niz
+{
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+}
